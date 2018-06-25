@@ -16,7 +16,8 @@ strong {font-weight: 600;}
 .left-column .mugshot {width: 35%; height: auto;}
 .left-column .social {width: 6%; min-width:30px; height: auto;}
 
-.left-column h1 span {display:block; font-size: 0.7em;}
+.left-column h1 span#title {font-size: 0.7em;}
+.left-column h1 span#role {display:block; font-size: 0.7em;}
 
 .left-column a {text-decoration: none; color: #fff; padding:0;}
 .left-column a:link{text-decoration: none;  color: #fff;}
