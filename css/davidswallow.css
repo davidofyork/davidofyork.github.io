@@ -12,7 +12,7 @@ li {font-size: 1.0em;}
 strong {font-weight: 600;}
 
 /* LEFT-COLUMN */
-.left-column {background: #004040; color: #fff; padding: 5% 5%; text-align: center;}
+.left-column {background: #485C6A; color: #fff; padding: 5% 5%; text-align: center;}
 .left-column .mugshot {width: 35%; height: auto;}
 .left-column .social {width: 6%; min-width:30px; height: auto;}
 
@@ -38,14 +38,14 @@ strong {font-weight: 600;}
 .left-column ul li a span { position:absolute; height:1px; width:1px; overflow:hidden; clip:rect(1px 1px 1px 1px); clip:rect(1px, 1px, 1px, 1px);}
 
 /* RIGHT-COLUMN */
-.right-column {background: #fff; color: #004040; padding: 5%; text-align: left;}
+.right-column {background: #fff; color: #485C6A; padding: 5%; text-align: left;}
 
 .right-column h2 {font-size: 1.8em; font-weight: normal; margin: 0 0 0.8em;}
 
 .right-column a {padding: 0 0.1em; font-weight: 600;}
-.right-column a:link{color: #005656;}
-.right-column a:visited{color: #005656;}
-.right-column a:hover, .right-column a:focus{color: #fff; background-color: #005656; outline:2px solid #005656;}
+.right-column a:link{color: #384955;}
+.right-column a:visited{color: #384955;}
+.right-column a:hover, .right-column a:focus{color: #ffffff; background-color:  #384955; outline:2px solid #384955;}
 .right-column a:active{color: #005656;}
 
 
