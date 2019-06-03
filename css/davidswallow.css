@@ -13,7 +13,8 @@ strong {font-weight: 600;}
 
 /* LEFT-COLUMN */
 .left-column {background: #485C6A; color: #fff; padding: 5% 5%; text-align: center;}
-.left-column .mugshot {width: 35%; height: auto;}
+/*.left-column .mugshot {width: 35%; height: auto;}*/
+.left-column .mugshot {width: 40%; border-radius: 50%; border: 0.2em solid #fff;}
 .left-column .social {width: 6%; min-width:30px; height: auto;}
 
 .left-column h1 span#title {font-size: 0.7em;}
