@@ -20,20 +20,20 @@ details ul {margin-left:1.6em; padding-left:1.6em;}
 /* LEFT-COLUMN */
 .left-column {background: #485C6A; color: #fff; padding: 5% 5%; text-align: center;}
 .left-column .mugshot {width: 40%; border-radius: 50%; border: 0.3em solid #fff;}
-.left-column .social {width: 6%; min-width:42px;}
+.left-column .social img {padding:2px; width: 24px; min-width:42px; border-radius: 50%; border: 0.3em solid #fff; vertical-align:top;}
 
 .left-column h1 span#title {font-size: 0.5em;}
 .left-column h1 span#role {display:block; font-size: 0.7em;}
 
-.left-column a {text-decoration: none; color: #fff; padding:0;}
-.left-column a:link{text-decoration: none;  color: #fff;}
-.left-column a:visited{text-decoration: none;  color: #fff;}
-.left-column a:hover, a:active, a:focus {text-decoration: none; color: #fff; outline:2px solid #fff;}
+.left-column a {display:inline-block; text-decoration: none; color: #fff; padding:2px; margin:0;}
+.left-column a:link{text-decoration: none; color: #fff;}
+.left-column a:visited{text-decoration: none; color: #fff;}
+.left-column a:hover, .left-column a:active, .left-column a:focus {text-decoration: none; color: #fff; outline:3px solid #fff; border-radius: 50%;}
 
 .left-column ul {list-style-type: none; margin: 0; padding: 0; text-align:center;}
-.left-column ul li {display: inline-block; margin: 0 0.2em;}
+.left-column ul li {display: inline-block;}
 
-.left-column ul li a span { position:absolute; height:1px; width:1px; overflow:hidden; clip:rect(1px 1px 1px 1px); clip:rect(1px, 1px, 1px, 1px);}
+.left-column ul li a span {position:absolute; height:1px; width:1px; overflow:hidden; clip:rect(1px 1px 1px 1px); clip:rect(1px, 1px, 1px, 1px);}
 
 /* RIGHT-COLUMN */
 .right-column {background: #fff; color: #485C6A; padding: 5%; text-align: left;}
