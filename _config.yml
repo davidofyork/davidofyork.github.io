@@ -1,4 +1,4 @@
 title: David Swallow
 description: 'Principal UX Consultant at Vispero'
-permalink: /:title/
+permalink: /blog/:title/
 baseurl: "/blog"
