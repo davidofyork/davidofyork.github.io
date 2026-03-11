@@ -1,4 +1,4 @@
 title: Isla Sorna
 description: 'Isla Nublar was just a showroom, something for the tourists. Site B was the factory floor.'
 permalink: /blog/:title/
-baseurl: "/blog"
+baseurl: /
