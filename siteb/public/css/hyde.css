@@ -33,6 +33,7 @@
 
 html {
   font-family: Gill Sans, Gill Sans MT, Calibri, sans-serif;
+  font-weight: normal;
 }
 @media (min-width: 48em) {
   html {
