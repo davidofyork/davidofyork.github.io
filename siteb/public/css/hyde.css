@@ -190,10 +190,10 @@ a.sidebar-nav-item:focus {
 .theme-base-11 .sidebar {
   background-color: #485C6A;
 }
-.theme-base-11 .content a,
+/*.theme-base-11 .content a,
 .theme-base-11 .related-posts li a:hover {
   color: #485C6A;
-}
+}*/
 
 /* Red */
 .theme-base-08 .sidebar {
