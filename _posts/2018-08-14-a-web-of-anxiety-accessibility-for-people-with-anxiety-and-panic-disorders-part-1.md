@@ -3,7 +3,7 @@ layout: post
 title: "A web of anxiety: accessibility for people with anxiety and panic disorders [Part 1]"
 ---
 
-**Anyone booking a vacation has likely encountered persuasive notifications urging them to “Hurry, only 2 tickets left!” or to “Book now as 6 other people are viewing this hotel”.**
+<img src="{{ site.baseurl }}/public/images/Persuasive_design.png" alt="Hotel listing on Booking.com that includes several highlighted messages that read '2 people are looking at this moment', 'In high demand!', 'Booked 7 times in the last 24 hours', 'Great Value Today', 'Only 1 room left on our site!' and 'Risk free: You can cancel later, so lock in this great price today.'" class="float-right">**Anyone booking a vacation has likely encountered persuasive notifications urging them to “Hurry, only 2 tickets left!” or to “Book now as 6 other people are viewing this hotel”.**
 
 We’ve all fumbled to enter our credit-card details as an ominous timer counts down the number of minutes remaining to complete our transaction. The web is awash with all manner of so-called [dark patterns](https://darkpatterns.org/), designed to convert visitors and part them from their money. While such intrusions can be a source of irritation or even stress for many people, they may be complete showstoppers for people with anxiety or panic disorders.
 
@@ -36,6 +36,6 @@ This is particularly the case for medical information, where irresponsible or ca
 My next post explores how we can avoid or reduce anxiety and panic triggers on the web and offers some practical guidance on how to improve accessibility for people with anxiety and panic disorders.
 
 ---
-This article was originally published on the [Vispero Blog](https://vispero.com/resources/category/blog/). It is reproduced here for convenience and personal reference. You can read the original version here: [A web of anxiety: accessibility for people with anxiety and panic disorders [Part 1]](https://vispero.com/resources/a-web-of-anxiety-accessibility-for-people-with-anxiety-and-panic-disorders-part-1/).
+*This article was originally published on the [Vispero Blog](https://vispero.com/resources/category/blog/). It is reproduced here for convenience and personal reference. You can read the original version here:  [A web of anxiety: accessibility for people with anxiety and panic disorders [Part 1]](https://vispero.com/resources/a-web-of-anxiety-accessibility-for-people-with-anxiety-and-panic-disorders-part-1/).*
 
 ---
