@@ -266,3 +266,15 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* Positioning */
+.float-left {
+  float: left;
+  margin: 0 1em 1em 0;
+  max-width: 50%;
+}
+.float-right {
+  float: right;
+  margin: 0 0 1em 1em; /* bottom + left margin for spacing */
+  max-width: 50%;       /* optional, restricts image size */
+}
