@@ -6,8 +6,10 @@ permalink: /siteb/blog/
 
 <ul>
 {% for post in site.posts %}
-<li>
-<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-</li>
+  <li>
+    TITLE: "{{ post.title }}" |
+    URL: "{{ post.url }}"
+  </li>
 {% endfor %}
 </ul>
+

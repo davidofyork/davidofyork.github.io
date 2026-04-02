@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A web of anxiety: accessibility for people with anxiety and panic disorders [Part 1]
+title: "A web of anxiety: accessibility for people with anxiety and panic disorders [Part 1]"
 ---
 
 **Anyone booking a vacation has likely encountered persuasive notifications urging them to “Hurry, only 2 tickets left!” or to “Book now as 6 other people are viewing this hotel”.**
