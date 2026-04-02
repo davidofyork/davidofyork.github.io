@@ -68,7 +68,7 @@ body {
 a {padding: 0 0.1em; font-weight: 600;}
 a:link{color: #384955;}
 a:visited{color: #384955;}
-a:hover, a:focus{color: #ffffff; background-color:  #384955; outline:2px solid #384955;}
+a:hover, a:focus{color: #ffffff; background-color:  #384955; outline: 2px solid #384955;}
 a:active{color: #005656;}
 
 
@@ -102,10 +102,8 @@ p {
   margin-bottom: 1rem;
 }
 
-strong {
-  color: #303030;
+strong {font-weight: 600;
 }
-
 
 /* Lists */
 ul, ol, dl {
