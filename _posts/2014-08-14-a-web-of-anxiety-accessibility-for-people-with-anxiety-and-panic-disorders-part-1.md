@@ -34,3 +34,8 @@ Headline from the Metro newspaper website that reads '5 symptoms you might not r
 This is particularly the case for medical information, where irresponsible or careless reporting can have serious consequences for anyone with health anxiety. According to one respondent: “Right now, the flu is a big fear and it seems journalists are really milking that for all it’s worth. So many articles about this healthy person dying or the ‘top five symptoms that might indicate flu that you might not have heard of’ or whatever. Often the article isn’t scary … but after reading that headline it’s hard to get into a better headspace”.
 
 My next post explores how we can avoid or reduce anxiety and panic triggers on the web and offers some practical guidance on how to improve accessibility for people with anxiety and panic disorders.
+
+---
+This article was originally published on the [Vispero Blog](https://vispero.com/resources/category/blog/). It is reproduced here for convenience and personal reference. You can read the original version here: [A web of anxiety: accessibility for people with anxiety and panic disorders [Part 1]](https://vispero.com/resources/a-web-of-anxiety-accessibility-for-people-with-anxiety-and-panic-disorders-part-1/).
+
+---
