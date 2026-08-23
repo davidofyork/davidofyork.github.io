@@ -56,6 +56,6 @@ The advice in this post can help you avoid or reduce anxiety and panic triggers 
 Note: Anxiety is a complex psychological condition. Treatment of clinically-diagnosed anxiety may take various forms, and we do not attempt to present these recommendations as a cure for anxiety. Rather, we offer them as a way to help you improve user experience by identifying and reducing unnecessarily anxiety-inducing situations.
 
 ---
-*This article was originally published on the [Vispero Blog](https://vispero.com/resources/category/blog/). It is reproduced here for convenience and personal reference. You can read the original version here:  [A web of anxiety: accessibility for people with anxiety and panic disorders [Part 1]](https://vispero.com/resources/a-web-of-anxiety-accessibility-for-people-with-anxiety-and-panic-disorders-part-2/).*
+*This article was originally published on the [Vispero Blog](https://vispero.com/resources/category/blog/). It is reproduced here for convenience and personal reference. You can read the original version here:  [A web of anxiety: accessibility for people with anxiety and panic disorders [Part 2]](https://vispero.com/resources/a-web-of-anxiety-accessibility-for-people-with-anxiety-and-panic-disorders-part-2/).*
 
 ---
