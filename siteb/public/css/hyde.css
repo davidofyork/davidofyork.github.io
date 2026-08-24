@@ -278,3 +278,11 @@ a.sidebar-nav-item:focus {
   margin: 0 0 1em 1em; /* bottom + left margin for spacing */
   max-width: 50%;       /* optional, restricts image size */
 }
+
+.sidebar-about h1 {
+  font-size: 1.5rem;
+}
+
+.sidebar-about .lead {
+  font-size: 0.9rem;
+}
