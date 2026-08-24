@@ -4,7 +4,7 @@ title: "Sounding out the web: accessibility for deaf and hard of hearing people 
 date: 2017-03-20
 ---
 
-**In [my previous post]({% post_url 2017-03-20-sounding-out-the-web-accessibility-for-deaf-and-hard-of-hearing-people-part-1 %}), I spoke with Ruth MacMullen, an academic librarian and copyright specialist from York, about her experience of being deaf and how it affects how she uses the web. In this next post in the series, Ruth shares some of the things that make life easier for her on the web, and we offer some practical tips on how you can improve accessibility for deaf and hard of hearing people.**
+**In [my previous post]({% post_url 2017-02-13-sounding-out-the-web-accessibility-for-deaf-and-hard-of-hearing-people-part-1 %}), I spoke with Ruth MacMullen, an academic librarian and copyright specialist from York, about her experience of being deaf and how it affects how she uses the web. In this next post in the series, Ruth shares some of the things that make life easier for her on the web, and we offer some practical tips on how you can improve accessibility for deaf and hard of hearing people.**
 
 ## Provide subtitles/captions
 
@@ -28,7 +28,7 @@ One advantage of using automated captioning is that the captions are automatical
 
 ## Provide a summary of audio and video content
 
-In [my previous post]({% post_url 2017-03-20-sounding-out-the-web-accessibility-for-deaf-and-hard-of-hearing-people-part-1 %}), Ruth explained how a brief summary of what a video is about can be just as important as captions or a transcript. A video’s summary may be as simple as a list of topics or songs that the video includes, which Ruth likens to “alternative text for someone with a hearing impairment”.
+In [my previous post]({% post_url 2017-02-13-sounding-out-the-web-accessibility-for-deaf-and-hard-of-hearing-people-part-1 %}), Ruth explained how a brief summary of what a video is about can be just as important as captions or a transcript. A video’s summary may be as simple as a list of topics or songs that the video includes, which Ruth likens to “alternative text for someone with a hearing impairment”.
 
 Ruth recalls watching a concert on YouTube: “There’s a piano player playing Gershwin songs and I’ll think, ‘Which one do I want to listen to?’ I can’t skip through and listen to fragments, I need to know what’s in there before I make a choice to watch it. And I feel like I don’t have that choice if I don’t know what’s in it.”
 
@@ -40,7 +40,7 @@ Ruth describes how frustrating this can be when she doesn’t even know that the
 
 ## Structure your content
 
-In [my previous post]({% post_url 2017-03-20-sounding-out-the-web-accessibility-for-deaf-and-hard-of-hearing-people-part-1 %}), Ruth emphasised the importance of [structured content](https://www.w3.org/WAI/tutorials/page-structure/content/), such as headings, paragraphs, and lists. “I rely so much on visual information”, she explains. “The more clearly it is structured and the more clear what it is, the better.” Ruth is currently undertaking a law degree through distance learning, which involves using a virtual learning environment. “They’re really good about their use of headings; they’re very descriptive. If they weren’t, I’d feel very lost because I completely rely on reading for understanding.”
+In [my previous post]({% post_url 2017-02-13-sounding-out-the-web-accessibility-for-deaf-and-hard-of-hearing-people-part-1 %}), Ruth emphasised the importance of [structured content](https://www.w3.org/WAI/tutorials/page-structure/content/), such as headings, paragraphs, and lists. “I rely so much on visual information”, she explains. “The more clearly it is structured and the more clear what it is, the better.” Ruth is currently undertaking a law degree through distance learning, which involves using a virtual learning environment. “They’re really good about their use of headings; they’re very descriptive. If they weren’t, I’d feel very lost because I completely rely on reading for understanding.”
 
 Using semantic HTML helps websites remain flexible and extensible. It makes the content reusable and conveys more meaning to assistive technologies. As Ruth points out, “This is good practice generally, but for people who are completely reliant on visual information, even more important.”
 

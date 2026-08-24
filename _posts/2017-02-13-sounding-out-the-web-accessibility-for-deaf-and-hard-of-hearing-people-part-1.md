@@ -22,7 +22,7 @@ A similar lack of structure and planning among many developers hinders Ruth’s 
 
 For deaf and hard of hearing people, who rely heavily on visual information, Ruth can’t overstate the importance of [structured content](https://www.w3.org/WAI/tutorials/page-structure/content/), such as headings, paragraphs, and lists. “It makes a big difference because if you’re lacking in one sense, you make up for it with other senses.” Well-structured information helps people decide whether to engage with content, and it can help stem information overload. “If you can’t make informed choices about what you pay attention to, you can get lost very quickly,” warns Ruth. “If I find a website that’s poorly structured—bad headings, bad layout, maybe too much on one page—I find that very hard to cope with.”
 
-**[My next post]({% post_url 2017-02-13-sounding-out-the-web-accessibility-for-deaf-and-hard-of-hearing-people-part-2 %}) shares some of the things that make life easier for Ruth on the web, and we offer some practical guidance on how to improve accessibility for deaf and hard of hearing people.**
+**[My next post]({% post_url 2017-03-20-sounding-out-the-web-accessibility-for-deaf-and-hard-of-hearing-people-part-2 %}) shares some of the things that make life easier for Ruth on the web, and we offer some practical guidance on how to improve accessibility for deaf and hard of hearing people.**
 
 *Ruth is the copyright and licences officer at York St. John University in the UK, where she specialises in the legal aspects of information management. She blogs at*[librarianinlawland.com](https://librarianinlawland.com/)*, and she tweets at*[@thehearinglib](https://twitter.com/thehearinglib).
 
