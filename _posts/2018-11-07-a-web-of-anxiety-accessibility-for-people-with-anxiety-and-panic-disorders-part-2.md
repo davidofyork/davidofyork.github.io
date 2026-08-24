@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A web of anxiety: accessibility for people with anxiety and panic disorders [Part 2]"
+date: 2018-11-07
 ---
 <img src="{{ site.baseurl }}/public/images/optout_form.png" alt="Section of an insurance broker website form that asks users to 'Tell us if you don’t want to hear from us' and provides a series of checkboxes for users to opt-out of communications about products and promotions." class="float-right">**“Unethical”, “misleading” and “exploitative” are the words used by the Norwegian Consumer Council to describe the use of dark patterns and privacy-intrusive default settings by Facebook, Google and Microsoft. The council’s report, titled [Deceived by Design](https://storage02.forbrukerradet.no/media/2018/06/2018-06-27-deceived-by-design-final.pdf) (PDF, 3.2MB), documents the “deceptive” and “manipulative” techniques that companies use to nudge users towards disclosing as much information as possible.**
 

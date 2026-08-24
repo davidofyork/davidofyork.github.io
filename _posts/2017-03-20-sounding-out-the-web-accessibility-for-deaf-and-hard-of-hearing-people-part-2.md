@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Sounding out the web: accessibility for deaf and hard of hearing people [Part 2]"
+date: 2017-03-20
 ---
 
 **In [my previous post]({% post_url 2017-03-20-sounding-out-the-web-accessibility-for-deaf-and-hard-of-hearing-people-part-1 %}), I spoke with Ruth MacMullen, an academic librarian and copyright specialist from York, about her experience of being deaf and how it affects how she uses the web. In this next post in the series, Ruth shares some of the things that make life easier for her on the web, and we offer some practical tips on how you can improve accessibility for deaf and hard of hearing people.**

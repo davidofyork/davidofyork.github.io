@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Sounding out the web: accessibility for deaf and hard of hearing people [Part 1]"
+date: 2017-02-13
 ---
 
 <img src="{{ site.baseurl }}/public/images/Portrait-of-Ruth-MacMullen.jpg" alt="Portrait of Ruth MacMullen" class="float-right">**The largely visual nature of the web means that we tend to focus on supporting people who are blind or partially sighted. But deaf and hard of hearing people are often overlooked. I spoke with Ruth MacMullen, who is an academic librarian and copyright specialist from York in the UK, about her experience of being deaf and how it affects her use of the web.**

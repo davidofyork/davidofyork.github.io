@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A web of anxiety: accessibility for people with anxiety and panic disorders [Part 1]"
+date: 2018-08-14
 ---
 
 <img src="{{ site.baseurl }}/public/images/Persuasive_design.png" alt="Hotel listing on Booking.com that includes several highlighted messages that read '2 people are looking at this moment', 'In high demand!', 'Booked 7 times in the last 24 hours', 'Great Value Today', 'Only 1 room left on our site!' and 'Risk free: You can cancel later, so lock in this great price today.'" class="float-right">**Anyone booking a vacation has likely encountered persuasive notifications urging them to “Hurry, only 2 tickets left!” or to “Book now as 6 other people are viewing this hotel”.**
