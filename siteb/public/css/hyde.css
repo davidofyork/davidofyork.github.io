@@ -90,7 +90,7 @@ html {
   font-family: Gill Sans, Gill Sans MT, Calibri, sans-serif;
   font-size: 1.6rem;
   font-weight:normal;
-  font-align:center;
+  text-align:center;
 }
 
 /* Sidebar nav */
