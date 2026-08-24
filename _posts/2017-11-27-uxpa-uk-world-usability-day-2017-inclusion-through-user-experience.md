@@ -1,0 +1,20 @@
+---
+layout: post
+title: "UXPA UK World Usability Day 2017: Inclusion through User Experience"
+date: 2017-11-27
+---
+
+<img src="{{ site.baseurl }}/public/images/UXPA_event-min-1.jpg" alt="Photograph of the UXPA event venue, showing 'WUD 2017: Inclusion through UX' slide" class="float-right">To celebrate World Usability Day 2017, the UK Chapter of the User Experience Professionals’ Association (UXPA UK) hosted an event in Hammersmith, London entitled *Inclusion through User Experience*. The event was curated by Chris Bailey and Caroline Owen and, as TPGi were one of the sponsors, Matthew Atkinson and I went along to check it out.
+
+Kicking off proceedings was Dr Simone Stumpf, from City University, who explained how the design process for the [SCAMPI (Self-Care Advice, Monitoring, Planning and Intervention) toolkit](https://scampi.city.ac.uk/) involved a series of co-design workshops with people who have Parkinson’s and dementia. These co-creation workshops encouraged and enabled participants to share their experiences, and relate them to others’, in order to develop personas to be used in other stages of the project. The process was well received by the participants and resulted in high-quality personas being developed.
+
+Next up was Ian Craigton-Chambers, from the [BAT (Bounce Alzheimers Therapy) Foundation](https://www.batfoundation.com/) who told us stories of the sometimes-intertwined histories of Alzheimer’s and table tennis, which can be used as a therapy. Research interest in the potential of table tennis has been piqued in recent years, through a number of studies, and the potential to help seems great. The BAT Foundation undertakes work with major sporting companies and other organisations to develop and deliver suitable tables for use in care homes and other settings. Some of their innovations include higher contrast between the playing surface and ball, and giving the tables sides. Ian and his very dedicated and energetic team also let us play with [one of their latest tables](https://www.batfoundation.com/bat-therapy-table/), which they had brought with them.
+
+The third and final talk of the evening was by Emanuela Gorla, a member of the Digital Accessibility Team at Barclays. Framed by the concepts of “inspiring hearts”, “educating heads” and “enabling hands”, Emanuela outlined the steps that Barclays is taking to achieve their ambition of becoming the most accessible and inclusive organisation in the FTSE 100. These include the creation of a series of [Diverse Personas](https://www.barclayscorporate.com/insight-and-research/managing-your-business/making-your-business-accessible/inclusive-design.html) to help people designing products and services understand the needs of customers with disabilities; the adoption of TPGi’s [Inclusive Design Principles](https://inclusivedesignprinciples.info/); and the development of a suite of empathy tools (including an age simulation suit) that help to convey the experiences of disabled customers. Emanuela also demonstrated some of the outcomes of Barclays’ more inclusive approach, such as [high-visibility debit cards](https://www.secure.barclays.co.uk/Accessibility/Highvisibilitydebitcard/P1242666802075) and a revised [PINsentry card reader](https://www.barclays.co.uk/ways-to-bank/online-banking/pinsentry-audio-accessible-card-reader/), which have greatly improved the user experience of many customers, with and without disabilities.
+
+The event was a great success, with each speaker giving a fascinating insight into the inspiring work being undertaken to create accessible and inclusive experiences for all.
+
+---
+*This article was originally published on the [Vispero Blog](https://vispero.com/resources/category/blog/). It is reproduced here for convenience and personal reference. You can read the original version here: [UXPA UK World Usability Day 2017: Inclusion through User Experience](https://www.tpgi.com/uxpa-uk-world-usability-day-2017-inclusion-through-user-experience/).*
+
+---
