@@ -279,10 +279,11 @@ a.sidebar-nav-item:focus {
   max-width: 50%;       /* optional, restricts image size */
 }
 
-.sidebar-about h1 {
-  font-size: 1.5rem;
+.sidebar .sidebar-about h1 {
+  font-size: 1.6rem;
 }
 
-.sidebar-about .lead {
-  font-size: 0.9rem;
+.sidebar .sidebar-about .lead {
+  font-size: 0.95rem;
+}
 }
