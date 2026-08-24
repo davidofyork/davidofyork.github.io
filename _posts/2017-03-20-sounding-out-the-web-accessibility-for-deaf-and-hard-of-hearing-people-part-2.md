@@ -57,6 +57,6 @@ Content that’s flexible enough to be delivered by captions, indexed by transcr
 *Ruth is the copyright and licences officer at York St. John University in the UK, where she specialises in the legal aspects of information management. She blogs at*[librarianinlawland.com](https://librarianinlawland.com/)*, and she tweets at*[@thehearinglib](https://twitter.com/thehearinglib).
 
 ---
-*This article was originally published on the [Vispero Blog](https://vispero.com/resources/category/blog/). It is reproduced here for convenience and personal reference. You can read the original version here:  [Sounding out the web: accessibility for deaf and hard of hearing people [Part 2]](https://www.tpgi.com/sounding-out-the-web-accessibility-for-deaf-and-hard-of-hearing-people-part-2/).*
+*This article was originally published on the [Vispero Blog](https://vispero.com/resources/category/blog/). It is reproduced here for convenience and personal reference. You can read the original version here: [Sounding out the web: accessibility for deaf and hard of hearing people [Part 2]](https://www.tpgi.com/sounding-out-the-web-accessibility-for-deaf-and-hard-of-hearing-people-part-2/).*
 
 ---
