@@ -29,7 +29,7 @@ permalink: /siteb/blog/
   {% endif %}
 
   <p>
-    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    <a href="{{ post.url }}">{{ post.title }}</a>
     <small>{{ post.date | date: "%B" }}</small>
   </p>
 {% endfor %}
