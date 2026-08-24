@@ -4,6 +4,19 @@ title: Blog
 permalink: /siteb/blog/
 ---
 
+
+<ul>
+{% for post in site.posts %}
+  <li>
+    <strong>{{ post.title }}</strong><br>
+    post.url = {{ post.url }}<br>
+    site.baseurl = {{ site.baseurl }}<br>
+    link = {{ site.baseurl }}{{ post.url }}
+  </li>
+{% endfor %}
+</ul>
+
+
 <div class="blog-archive">
 {% assign current_year = "" %}
 
